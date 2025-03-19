@@ -33,7 +33,7 @@ Press q or Esc to exit the application.
 
 File Structure
 
-main.py: The main script for hand gesture recognition.
+inference_classifier.py: The inference_classifier script for hand gesture recognition.
 
 model.p: Pickle file containing the trained model.
 
